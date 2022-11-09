@@ -16,7 +16,7 @@ app = FastAPI()
 async def startup_event():
     # Kafka Admin Client
     client = KafkaAdminClient(
-        bootstrap_servers=os.environ.get("BOOTSTRAP-SERVERS"))
+        bootstrap_servers=os.environ.get("BOOTSTRAP_SERVERS"))
     # Creating topic
     topic = NewTopic(name=os.environ.get("TOPIC_PEOPLE_BASIC_NAME"),
                      num_partitions=int(os.environ.get(

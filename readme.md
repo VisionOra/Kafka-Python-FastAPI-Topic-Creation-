@@ -129,3 +129,12 @@ docker exec -it cli-tools kafka-topics --describe all --bootstrap-server broker0
 ```
 Output
 ![Update Page](attachments/update_configs.png)
+
+
+# Author 
+* Sohaib Anwaar  : https://www.sohaibanwaar.com
+* gmail          : sohaibanwaar36@gmail.com
+* linkedin       : [Have Some Professional Talk here](https://www.linkedin.com/in/sohaib-anwaar-4b7ba1187/)
+* Stack Overflow : [Get my help Here](https://stackoverflow.com/users/7959545/sohaib-anwaar)
+* Kaggle         : [View my master-pieces here](https://www.kaggle.com/sohaibanwaar1203)
+* Github         : [View my code here](https://github.com/SohaibAnwaar)
